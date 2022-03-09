@@ -1,6 +1,6 @@
 # mvvm
 
-This a practice for unit test and widget test with [git restful user api](https://docs.github.com/en/rest/reference/users#get-the-authenticated-user) and MVC
+This a practice for unit test and widget test with [git restful user api](https://docs.github.com/en/rest/reference/users#get-the-authenticated-user) and MVVM.
 
 <img src="./screenshot/mvvm.png" width="200" />
 
