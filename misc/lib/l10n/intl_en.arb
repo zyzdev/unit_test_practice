@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "string_followers": "followers",
+  "@string_followers": {},
+  "string_following": "following",
+  "@string_following": {},
+  "string_oops": "Oops! There has something wrong...",
+  "@string_oops": {},
+  "title_close": "Close",
+  "@title_close": {},
+  "title_github": "Github",
+  "@title_github": {},
+  "title_github_docs": "GitHub Docs",
+  "@title_github_docs": {},
+  "title_mine": "Mine",
+  "@title_mine": {},
+  "title_retry": "Retry",
+  "@title_retry": {},
+  "title_user": "User",
+  "@title_user": {}
+}

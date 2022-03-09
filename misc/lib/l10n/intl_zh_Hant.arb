@@ -1,0 +1,21 @@
+{
+  "@@locale": "zh-Hant",
+  "string_followers": "",
+  "@string_followers": {},
+  "string_following": "",
+  "@string_following": {},
+  "string_oops": "糟糕了！似乎發生了錯誤。",
+  "@string_oops": {},
+  "title_close": "關閉",
+  "@title_close": {},
+  "title_github": "",
+  "@title_github": {},
+  "title_github_docs": "",
+  "@title_github_docs": {},
+  "title_mine": "關於我",
+  "@title_mine": {},
+  "title_retry": "再試一次",
+  "@title_retry": {},
+  "title_user": "使用者",
+  "@title_user": {}
+}
