@@ -27,7 +27,7 @@ This a practice for unit test and widget test with [git restful user api](https:
     |   |-- Screenshot_1646446718.png
     |   |-- Screenshot_1646446720.png
     |   |-- Screenshot_1646446725.png
-    |   |-- mvc.png
+    |   |-- mvvm.png
     |-- test
         |-- mine
         |   |-- model_test.dart
